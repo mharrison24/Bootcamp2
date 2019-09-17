@@ -1,0 +1,16 @@
+{
+  "name": "Bootcamp Assignment #2",
+  "version": "2.0.0",
+  "description": "Persisting data using MongoDB and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Medhir Bhargava & Christina Gardner-McCune",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^5.7.1",
+    "should": "^13.2.3"
+  },
+  "devDependencies": {}
+}
